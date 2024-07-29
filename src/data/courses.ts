@@ -1559,6 +1559,17 @@ const courses: Course[] = [
     flags: "flag-icon-tr",
     image: "https://miro.medium.com/max/1400/0*-jhnXzZ3HsnoeC_s.jpg",
   },
+  {
+    title: "Learn React",
+    description: "The ultimate React 101 - the perfect starting point for any React beginner. Learn the basics of modern React by solving 140+ interactive coding challenges and building eight fun projects.",
+    link: "https://v2.scrimba.com/learn-react-c0e",
+    author: "Bob Ziroll",
+    level: "Beginner - Intermadiate",
+    categories: "react",
+    language: "English",
+    flags: "flag-icon-us",
+    image: "https://react.dev/images/og-home.png",
+  },
 ]
   .map((course) => {
     return {
